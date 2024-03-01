@@ -1,0 +1,3677 @@
+{
+  "version": "1.0.0",
+  "entries": [
+    {
+      "id": "bwv179.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv179.6.mxl",
+          "md5Checksum": "9cebcf4e21a45c23787f48ace1d9d4c1"
+        }
+      }
+    },
+    {
+      "id": "bwv93.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv93.7.mxl",
+          "md5Checksum": "ab6f2cb59a626bfe415e555383d22f0b"
+        }
+      }
+    },
+    {
+      "id": "bwv396",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv396.mxl",
+          "md5Checksum": "bb0d5d2deda970c6bcfdde4d4a3fb2fe"
+        }
+      }
+    },
+    {
+      "id": "bwv382",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv382.mxl",
+          "md5Checksum": "801f089a0dcd88a2dfb1d1cac7b6a89e"
+        }
+      }
+    },
+    {
+      "id": "bwv369",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv369.mxl",
+          "md5Checksum": "a4362c342897e4a1d02650bcad3f04dd"
+        }
+      }
+    },
+    {
+      "id": "bwv355",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv355.mxl",
+          "md5Checksum": "184efcb845374d1617ce240198a9c5c9"
+        }
+      }
+    },
+    {
+      "id": "bwv144.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv144.6.mxl",
+          "md5Checksum": "fa87ee04fbe6f38ee7dcbcd7ce44f1ec"
+        }
+      }
+    },
+    {
+      "id": "bwv433",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv433.mxl",
+          "md5Checksum": "770078c0287a7fad31e2c4a64f74ea29"
+        }
+      }
+    },
+    {
+      "id": "bwv427",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv427.mxl",
+          "md5Checksum": "bab2fc3cec318a5803578ba8e22d1516"
+        }
+      }
+    },
+    {
+      "id": "bwv127.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv127.5.mxl",
+          "md5Checksum": "2dcba459316efba7b764fbb27d61863c"
+        }
+      }
+    },
+    {
+      "id": "bwv341",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv341.mxl",
+          "md5Checksum": "ede9eb6d35637a6c290dfda5dbc3a914"
+        }
+      }
+    },
+    {
+      "id": "bwv248.42-4",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.42-4.mxl",
+          "md5Checksum": "897fa62cb671b831a9bfd682f556dca1"
+        }
+      }
+    },
+    {
+      "id": "bwv14.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv14.5.mxl",
+          "md5Checksum": "28f6f2df82327c4b413c75b9cc74d6ef"
+        }
+      }
+    },
+    {
+      "id": "bwv77.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv77.6.mxl",
+          "md5Checksum": "14f1b920db44cc52ced7a6c76dbb5496"
+        }
+      }
+    },
+    {
+      "id": "bwv32.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv32.6.mxl",
+          "md5Checksum": "39e7bbeed7bcf658121456ac6a667c5d"
+        }
+      }
+    },
+    {
+      "id": "bwv125.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv125.6.mxl",
+          "md5Checksum": "938a10b59d48cfae1f753ce9a6a956d0"
+        }
+      }
+    },
+    {
+      "id": "bwv20.11",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv20.11.mxl",
+          "md5Checksum": "499b362b05f8cfe8e611cf094eaec64d"
+        }
+      }
+    },
+    {
+      "id": "bwv248.64-6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.64-6.mxl",
+          "md5Checksum": "1deaecb26714da09b06827db426adcba"
+        }
+      }
+    },
+    {
+      "id": "bwv426",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv426.mxl",
+          "md5Checksum": "91bad544a2522781269900e1ba276a90"
+        }
+      }
+    },
+    {
+      "id": "bwv340",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv340.mxl",
+          "md5Checksum": "45ddede6e90803e15dd18eb971ab134d"
+        }
+      }
+    },
+    {
+      "id": "bwv101.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv101.7.mxl",
+          "md5Checksum": "e6bf418a7de808c457329d1a022bd813"
+        }
+      }
+    },
+    {
+      "id": "bwv354",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv354.mxl",
+          "md5Checksum": "9fb72e818fbe0672adccfbd9b2cff76c"
+        }
+      }
+    },
+    {
+      "id": "bwv432",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv432.mxl",
+          "md5Checksum": "4c7657e2a245146f891e7daf849cae6c"
+        }
+      }
+    },
+    {
+      "id": "bwv16.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv16.6.mxl",
+          "md5Checksum": "58d719360eabb5b4da0128e63bec9532"
+        }
+      }
+    },
+    {
+      "id": "bwv244.46",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.46.mxl",
+          "md5Checksum": "c2455f1e368bcb7327c7c2c7888af7a1"
+        }
+      }
+    },
+    {
+      "id": "bwv368",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv368.mxl",
+          "md5Checksum": "4173ed1fc827b1a787992c8cf5bfff35"
+        }
+      }
+    },
+    {
+      "id": "bwv383",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv383.mxl",
+          "md5Checksum": "adc2eb769cf6d185edf532d83a352b6a"
+        }
+      }
+    },
+    {
+      "id": "bwv397",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv397.mxl",
+          "md5Checksum": "9af1d564017f5daa38ead3d25d7ce85d"
+        }
+      }
+    },
+    {
+      "id": "bwv43.11",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv43.11.mxl",
+          "md5Checksum": "2d85b99590c16b9ea548def7d900123c"
+        }
+      }
+    },
+    {
+      "id": "bwv153.9",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv153.9.mxl",
+          "md5Checksum": "88dfbe30e3cbe9c6476f8292b6430200"
+        }
+      }
+    },
+    {
+      "id": "bwv248.59-6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.59-6.mxl",
+          "md5Checksum": "dd85551461bb44ab5d3416d9e12d55b2"
+        }
+      }
+    },
+    {
+      "id": "bwv91.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv91.6.mxl",
+          "md5Checksum": "5a93832627f6ec169e690d509b2fe4fc"
+        }
+      }
+    },
+    {
+      "id": "bwv9.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv9.7.mxl",
+          "md5Checksum": "9bab8918976f24a3ee54374e3dbb4c6a"
+        }
+      }
+    },
+    {
+      "id": "bwv48.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv48.7.mxl",
+          "md5Checksum": "7e95fe8935189e6c12946ca4d7af48a8"
+        }
+      }
+    },
+    {
+      "id": "bwv184.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv184.5.mxl",
+          "md5Checksum": "2c42757ed4c0d4e41761b052cd25c30d"
+        }
+      }
+    },
+    {
+      "id": "bwv88.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv88.7.mxl",
+          "md5Checksum": "946e8570df26719db7bb9b3293f28884"
+        }
+      }
+    },
+    {
+      "id": "bwv381",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv381.mxl",
+          "md5Checksum": "5a24aceeefb55b808b6845de4a33ee91"
+        }
+      }
+    },
+    {
+      "id": "bwv245.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.5.mxl",
+          "md5Checksum": "e7a484c83df0ee9d93cac4bd4f422eb6"
+        }
+      }
+    },
+    {
+      "id": "bwv395",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv395.mxl",
+          "md5Checksum": "798e8690c15f0405753058aa0e9590d3"
+        }
+      }
+    },
+    {
+      "id": "bwv244.44",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.44.mxl",
+          "md5Checksum": "6ae916cb57c8caad019d64032123957f"
+        }
+      }
+    },
+    {
+      "id": "bwv418",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv418.mxl",
+          "md5Checksum": "074b7b93f2e89ff03cd0872377fdf01b"
+        }
+      }
+    },
+    {
+      "id": "bwv342",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv342.mxl",
+          "md5Checksum": "3203ec7172f9a846fc83165d540354d6"
+        }
+      }
+    },
+    {
+      "id": "bwv424",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv424.mxl",
+          "md5Checksum": "c1b4eba0cc6ade1ec7b9c6629f43cd8d"
+        }
+      }
+    },
+    {
+      "id": "bwv430",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv430.mxl",
+          "md5Checksum": "ae0cbb8463f3de25f2fd9fab906a90c3"
+        }
+      }
+    },
+    {
+      "id": "bwv356",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv356.mxl",
+          "md5Checksum": "c7cda27d3dc4ae6727829d115f9d3a31"
+        }
+      }
+    },
+    {
+      "id": "bwv112.5-sc",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv112.5-sc.mxl",
+          "md5Checksum": "fcd9cab8358ee22601986b03d9a90a1c"
+        }
+      }
+    },
+    {
+      "id": "bwv103.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv103.6.mxl",
+          "md5Checksum": "aede3a840b11095928bd182897fcc644"
+        }
+      }
+    },
+    {
+      "id": "bwv431",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv431.mxl",
+          "md5Checksum": "bfb4be15d49cf0bce4f12bbd4b3d2d63"
+        }
+      }
+    },
+    {
+      "id": "bwv357",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv357.mxl",
+          "md5Checksum": "ed64c15b54687c9927bda505af0b0c67"
+        }
+      }
+    },
+    {
+      "id": "bwv343",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv343.mxl",
+          "md5Checksum": "76f0e4f779f31d0fd94f04f09d765dee"
+        }
+      }
+    },
+    {
+      "id": "bwv425",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv425.mxl",
+          "md5Checksum": "ecd96dd5946095a385a3a1395956c8ff"
+        }
+      }
+    },
+    {
+      "id": "bwv30.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv30.6.mxl",
+          "md5Checksum": "2c8b2835cfe2378f78256eee876bac05"
+        }
+      }
+    },
+    {
+      "id": "bwv419",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv419.mxl",
+          "md5Checksum": "dd5a4e4fa79dc5238c0d366ec9ccea6b"
+        }
+      }
+    },
+    {
+      "id": "bwv394",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv394.mxl",
+          "md5Checksum": "353c896ad891d59a33745652d285b201"
+        }
+      }
+    },
+    {
+      "id": "bwv380",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv380.mxl",
+          "md5Checksum": "1fd3b4094277cb3cc5e8e196927b00d1"
+        }
+      }
+    },
+    {
+      "id": "bwv245.11",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.11.mxl",
+          "md5Checksum": "5893f981a0fa0e93b22f798c6fa84330"
+        }
+      }
+    },
+    {
+      "id": "bwv245.15",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.15.mxl",
+          "md5Checksum": "252ce7c4da9246406d068419b4717058"
+        }
+      }
+    },
+    {
+      "id": "bwv10.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv10.7.mxl",
+          "md5Checksum": "edffc68745ca7dd89081b6d4c60d4134"
+        }
+      }
+    },
+    {
+      "id": "bwv36.4-2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv36.4-2.mxl",
+          "md5Checksum": "64f289fb65f3f6210c272c7594836092"
+        }
+      }
+    },
+    {
+      "id": "bwv384",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv384.mxl",
+          "md5Checksum": "38142d0e17318c1abffc2deb5b4358c3"
+        }
+      }
+    },
+    {
+      "id": "bwv390",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv390.mxl",
+          "md5Checksum": "f76eb3085947aa0f434b58b1f4e270d3"
+        }
+      }
+    },
+    {
+      "id": "bwv159.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv159.5.mxl",
+          "md5Checksum": "6bf4a17eed18d79d58d98d34568e533a"
+        }
+      }
+    },
+    {
+      "id": "bwv421",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv421.mxl",
+          "md5Checksum": "2e53813ab6cf5d1b56c01cb92c405e58"
+        }
+      }
+    },
+    {
+      "id": "bwv347",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv347.mxl",
+          "md5Checksum": "fd9059788df96a7ed3086555d31aa74c"
+        }
+      }
+    },
+    {
+      "id": "bwv353",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv353.mxl",
+          "md5Checksum": "858311005ecb30164220598cf223754b"
+        }
+      }
+    },
+    {
+      "id": "bwv435",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv435.mxl",
+          "md5Checksum": "b4a38a76d42f8c96c3d527eedcaf2d40"
+        }
+      }
+    },
+    {
+      "id": "bwv95.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv95.7.mxl",
+          "md5Checksum": "2df89ffa12367f5fa4db84bf1da9e97d"
+        }
+      }
+    },
+    {
+      "id": "bwv409",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv409.mxl",
+          "md5Checksum": "64f525566a9f75a6b36fad72bc05b2a6"
+        }
+      }
+    },
+    {
+      "id": "bwv248.42-s",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.42-s.mxl",
+          "md5Checksum": "fc5573092c133a82eaa37d903a14cfd0"
+        }
+      }
+    },
+    {
+      "id": "bwv244.54",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.54.mxl",
+          "md5Checksum": "1e97becfed698b2b01729f0c4592c8d1"
+        }
+      }
+    },
+    {
+      "id": "bwv408",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv408.mxl",
+          "md5Checksum": "db328f2e7de165b67a194eaf65febf23"
+        }
+      }
+    },
+    {
+      "id": "bwv244.40",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.40.mxl",
+          "md5Checksum": "bdb11888254b161814b8ea5584979180"
+        }
+      }
+    },
+    {
+      "id": "bwv352",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv352.mxl",
+          "md5Checksum": "eed31b4b8fd83eb99fcf35f25bfc17a7"
+        }
+      }
+    },
+    {
+      "id": "bwv434",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv434.mxl",
+          "md5Checksum": "5c2be02eba87a619cb12ce6a01178c2b"
+        }
+      }
+    },
+    {
+      "id": "bwv420",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv420.mxl",
+          "md5Checksum": "7b3fbb6bee11dbbd729826c60ebc5218"
+        }
+      }
+    },
+    {
+      "id": "bwv346",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv346.mxl",
+          "md5Checksum": "9d5f3d22a2e13a72b2c38e4ab61d4028"
+        }
+      }
+    },
+    {
+      "id": "bwv248.23-2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.23-2.mxl",
+          "md5Checksum": "e73cd25a656a595f99e9c681cfafb260"
+        }
+      }
+    },
+    {
+      "id": "bwv248.23-s",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.23-s.mxl",
+          "md5Checksum": "e940f0b3c207057ac248ec7068404fff"
+        }
+      }
+    },
+    {
+      "id": "bwv391",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv391.mxl",
+          "md5Checksum": "714cf8385a4f0bb066af2bde1763cabf"
+        }
+      }
+    },
+    {
+      "id": "bwv226.2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv226.2.mxl",
+          "md5Checksum": "ba260f70ea108cc9324369badb74458d"
+        }
+      }
+    },
+    {
+      "id": "bwv385",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv385.mxl",
+          "md5Checksum": "f8d160ba3cc852e3acc90874c8c81af2"
+        }
+      }
+    },
+    {
+      "id": "bwv73.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv73.5.mxl",
+          "md5Checksum": "1f188d622094b5d35ebb9966c83b45f7"
+        }
+      }
+    },
+    {
+      "id": "bwv48.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv48.3.mxl",
+          "md5Checksum": "89f9207216269bb3e9a38ce3c98a9d5c"
+        }
+      }
+    },
+    {
+      "id": "bwv245.28",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.28.mxl",
+          "md5Checksum": "051b7a77cb9b132ffced931d1827a39a"
+        }
+      }
+    },
+    {
+      "id": "bwv123.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv123.6.mxl",
+          "md5Checksum": "666a5d443e103c23ca5eeb86d9732b8f"
+        }
+      }
+    },
+    {
+      "id": "bwv166.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv166.6.mxl",
+          "md5Checksum": "940f5357e15ad1087480c60e92148f5a"
+        }
+      }
+    },
+    {
+      "id": "bwv245.14",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.14.mxl",
+          "md5Checksum": "8fd8e67e678140e73fd585eba6211f4e"
+        }
+      }
+    },
+    {
+      "id": "bwv140.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv140.7.mxl",
+          "md5Checksum": "4a296023b03538bb038057434c330008"
+        }
+      }
+    },
+    {
+      "id": "bwv248.46-5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.46-5.mxl",
+          "md5Checksum": "f1322d3aaab48870a1d86974f0ed13eb"
+        }
+      }
+    },
+    {
+      "id": "bwv121.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv121.6.mxl",
+          "md5Checksum": "8e9cdef4654330995b3eacd366f3f81c"
+        }
+      }
+    },
+    {
+      "id": "bwv164.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv164.6.mxl",
+          "md5Checksum": "6453988c48d0588a8b1f8293cc8bb0be"
+        }
+      }
+    },
+    {
+      "id": "bwv80.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv80.8.mxl",
+          "md5Checksum": "a362780b97998156342c514805a4cac2"
+        }
+      }
+    },
+    {
+      "id": "bwv245.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.3.mxl",
+          "md5Checksum": "c463f911ad8639a6b9c9144d45425883"
+        }
+      }
+    },
+    {
+      "id": "bwv393",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv393.mxl",
+          "md5Checksum": "0e6842c8385b439222cb681e2866e5ca"
+        }
+      }
+    },
+    {
+      "id": "bwv387",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv387.mxl",
+          "md5Checksum": "34d0a2b444081f682000a33105f3aa08"
+        }
+      }
+    },
+    {
+      "id": "bwv144.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv144.3.mxl",
+          "md5Checksum": "09ac0c8a5c3332f14c6794abda1851ef"
+        }
+      }
+    },
+    {
+      "id": "bwv436",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv436.mxl",
+          "md5Checksum": "d4e3d81159a3d261c6cd2101823c613d"
+        }
+      }
+    },
+    {
+      "id": "bwv350",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv350.mxl",
+          "md5Checksum": "6d6f562e5759d8ad4136fdc42059cc1e"
+        }
+      }
+    },
+    {
+      "id": "bwv344",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv344.mxl",
+          "md5Checksum": "1b5670bd965b33d863a7743757d5059e"
+        }
+      }
+    },
+    {
+      "id": "bwv40.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv40.8.mxl",
+          "md5Checksum": "19ffe2d26886578635e4599ed34db522"
+        }
+      }
+    },
+    {
+      "id": "bwv422",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv422.mxl",
+          "md5Checksum": "9ae492065552fa863b994b784efcf58e"
+        }
+      }
+    },
+    {
+      "id": "bwv378",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv378.mxl",
+          "md5Checksum": "0e7c8c16f9884b387be6cdde61a85cdc"
+        }
+      }
+    },
+    {
+      "id": "bwv248.64-s",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.64-s.mxl",
+          "md5Checksum": "747428cf33ed1eab282613100c3714b5"
+        }
+      }
+    },
+    {
+      "id": "bwv180.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv180.7.mxl",
+          "md5Checksum": "ea58de08f6b70756b596691607332a2d"
+        }
+      }
+    },
+    {
+      "id": "bwv64.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv64.8.mxl",
+          "md5Checksum": "ca419b9d12ed4325958d5d1ea840ab2e"
+        }
+      }
+    },
+    {
+      "id": "bwv379",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv379.mxl",
+          "md5Checksum": "688068a6377ea3f41c4f574997a0bd76"
+        }
+      }
+    },
+    {
+      "id": "bwv345",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv345.mxl",
+          "md5Checksum": "050abddb4ced3f9859deab7cf7f96794"
+        }
+      }
+    },
+    {
+      "id": "bwv423",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv423.mxl",
+          "md5Checksum": "26c0092a4a19174e7a203f8f806b2bae"
+        }
+      }
+    },
+    {
+      "id": "bwv437",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv437.mxl",
+          "md5Checksum": "672a054c594b7d8c2841fc1717e6bab2"
+        }
+      }
+    },
+    {
+      "id": "bwv351",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv351.mxl",
+          "md5Checksum": "6efdaa0db6264b7083cb88d4b323cf68"
+        }
+      }
+    },
+    {
+      "id": "bwv386",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv386.mxl",
+          "md5Checksum": "64007a0436ce66504c8620dcbdcb54a4"
+        }
+      }
+    },
+    {
+      "id": "bwv392",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv392.mxl",
+          "md5Checksum": "a25d1480d69c242f8a3a42de6e40b405"
+        }
+      }
+    },
+    {
+      "id": "bwv55.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv55.5.mxl",
+          "md5Checksum": "17ca682eca685f5fd9a11f6843a07cb8"
+        }
+      }
+    },
+    {
+      "id": "bwv245.17",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.17.mxl",
+          "md5Checksum": "9758880343048c8ca5eaf3890b5f9fcb"
+        }
+      }
+    },
+    {
+      "id": "bwv12.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv12.7.mxl",
+          "md5Checksum": "8c654a3d6ecc4db566c30750d1b90947"
+        }
+      }
+    },
+    {
+      "id": "bwv102.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv102.7.mxl",
+          "md5Checksum": "3e41a5fb4bed594992e34db171a6eb4a"
+        }
+      }
+    },
+    {
+      "id": "bwv281",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv281.mxl",
+          "md5Checksum": "133944d9ec089e973e6915171e19eb34"
+        }
+      }
+    },
+    {
+      "id": "bwv295",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv295.mxl",
+          "md5Checksum": "a3228eadd52d6541458adf336ecf66ca"
+        }
+      }
+    },
+    {
+      "id": "bwv126.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv126.6.mxl",
+          "md5Checksum": "8d6a9a72dcad2007fa623dffc2079676"
+        }
+      }
+    },
+    {
+      "id": "bwv256",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv256.mxl",
+          "md5Checksum": "d1f4113914b959c43f5c2a47d3894cc8"
+        }
+      }
+    },
+    {
+      "id": "bwv145.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv145.5.mxl",
+          "md5Checksum": "29a8ce3505688a6e9e179f300184e76e"
+        }
+      }
+    },
+    {
+      "id": "bwv336",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv336.mxl",
+          "md5Checksum": "e31878af9b82f1e02d56ca0160aa2ad4"
+        }
+      }
+    },
+    {
+      "id": "bwv322",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv322.mxl",
+          "md5Checksum": "81684c0f6768d526fc72ffe3534d915a"
+        }
+      }
+    },
+    {
+      "id": "bwv28.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv28.6.mxl",
+          "md5Checksum": "f4bdaafe6d5ae2da37e096d28b00c45a"
+        }
+      }
+    },
+    {
+      "id": "bwv187.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv187.7.mxl",
+          "md5Checksum": "aeed29c09fa5eb17b9b5679e1d19ae9d"
+        }
+      }
+    },
+    {
+      "id": "bwv197.10",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv197.10.mxl",
+          "md5Checksum": "f6db3a69a21c46c0a4575ad07141f931"
+        }
+      }
+    },
+    {
+      "id": "bwv323",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv323.mxl",
+          "md5Checksum": "3278c6969aab707ad42b11f061ad208f"
+        }
+      }
+    },
+    {
+      "id": "bwv337",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv337.mxl",
+          "md5Checksum": "20e2ac8278dc336f8cd51e2b87aab4b4"
+        }
+      }
+    },
+    {
+      "id": "bwv244.25",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.25.mxl",
+          "md5Checksum": "011fc473041adb6029b17012edacf8e1"
+        }
+      }
+    },
+    {
+      "id": "bwv8.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv8.6.mxl",
+          "md5Checksum": "0551a10d133ba8cb1d6523dce216a9a0"
+        }
+      }
+    },
+    {
+      "id": "bwv257",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv257.mxl",
+          "md5Checksum": "4904421d2fa5ffe4fe568cf81173f2df"
+        }
+      }
+    },
+    {
+      "id": "bwv294",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv294.mxl",
+          "md5Checksum": "e1a03341512599134a7d2624008c9161"
+        }
+      }
+    },
+    {
+      "id": "bwv227.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv227.7.mxl",
+          "md5Checksum": "f109f40126c97e0cafa1d297a7ce7ba5"
+        }
+      }
+    },
+    {
+      "id": "bwv280",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv280.mxl",
+          "md5Checksum": "531c38ae7141e59897d9fb23b4d829bd"
+        }
+      }
+    },
+    {
+      "id": "bwv89.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv89.6.mxl",
+          "md5Checksum": "06ecaf61a151c34be4440df115a2dd97"
+        }
+      }
+    },
+    {
+      "id": "bwv33.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv33.6.mxl",
+          "md5Checksum": "021d1953199e8bb48876733bfde248b3"
+        }
+      }
+    },
+    {
+      "id": "bwv296",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv296.mxl",
+          "md5Checksum": "822c450c26f8479c3532c5b0a0606b59"
+        }
+      }
+    },
+    {
+      "id": "bwv282",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv282.mxl",
+          "md5Checksum": "6d374af2772a8d682c24d1e89262112c"
+        }
+      }
+    },
+    {
+      "id": "bwv269",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv269.mxl",
+          "md5Checksum": "690ad27da52d1a4828b246c7ecb46d3c"
+        }
+      }
+    },
+    {
+      "id": "bwv17.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv17.7.mxl",
+          "md5Checksum": "10c3f4c1030d0a98870538b85f6a6bbf"
+        }
+      }
+    },
+    {
+      "id": "bwv255",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv255.mxl",
+          "md5Checksum": "a43f6669c73070160b33a196ac5e7bb8"
+        }
+      }
+    },
+    {
+      "id": "bwv185.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv185.6.mxl",
+          "md5Checksum": "f9857d8d207a37d0e09a158d020f0f4e"
+        }
+      }
+    },
+    {
+      "id": "bwv309",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv309.mxl",
+          "md5Checksum": "5ec297b5518cfa49afe023be816aca45"
+        }
+      }
+    },
+    {
+      "id": "bwv321",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv321.mxl",
+          "md5Checksum": "8180289a2e94cff67b71589ea38ad070"
+        }
+      }
+    },
+    {
+      "id": "bwv335",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv335.mxl",
+          "md5Checksum": "93566919cf663a82d6b24e765fce3964"
+        }
+      }
+    },
+    {
+      "id": "bwv18.5-lz",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv18.5-lz.mxl",
+          "md5Checksum": "38e12c35a2a51aa30481a9b45c9d4e6c"
+        }
+      }
+    },
+    {
+      "id": "bwv90.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv90.5.mxl",
+          "md5Checksum": "b43cbc593aea93395bbd69ef606859ee"
+        }
+      }
+    },
+    {
+      "id": "bwv197.7-a",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv197.7-a.mxl",
+          "md5Checksum": "6b9e751f4e53de0ee06d24d907359a97"
+        }
+      }
+    },
+    {
+      "id": "bwv4.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv4.8.mxl",
+          "md5Checksum": "0d70e06fab24cabf84242015deecd550"
+        }
+      }
+    },
+    {
+      "id": "bwv334",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv334.mxl",
+          "md5Checksum": "bc5b5414ed03dec521e2e2dcb410a5f0"
+        }
+      }
+    },
+    {
+      "id": "bwv320",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv320.mxl",
+          "md5Checksum": "cf8b25af521782564d763f1a565e5bd7"
+        }
+      }
+    },
+    {
+      "id": "bwv244.32",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.32.mxl",
+          "md5Checksum": "b35e3dbfa9df2a8abafeea7b69035b74"
+        }
+      }
+    },
+    {
+      "id": "bwv308",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv308.mxl",
+          "md5Checksum": "4de8c35c148cf3a6536bf80f8439ad74"
+        }
+      }
+    },
+    {
+      "id": "bwv178.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv178.7.mxl",
+          "md5Checksum": "5a5ac98c4514f70f295d17b2d9e9dd59"
+        }
+      }
+    },
+    {
+      "id": "bwv52.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv52.6.mxl",
+          "md5Checksum": "dbee41e71f6de19b7b18e03a5d008034"
+        }
+      }
+    },
+    {
+      "id": "bwv254",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv254.mxl",
+          "md5Checksum": "e0ed9f6709ba443ab1332ae15a41352b"
+        }
+      }
+    },
+    {
+      "id": "bwv268",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv268.mxl",
+          "md5Checksum": "03faf40a84afbaae89b9059e27aefe08"
+        }
+      }
+    },
+    {
+      "id": "bwv283",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv283.mxl",
+          "md5Checksum": "453809ccfe5f07ed2de109da2c6d29c5"
+        }
+      }
+    },
+    {
+      "id": "bwv297",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv297.mxl",
+          "md5Checksum": "318d43ed54f095a5723504818499c1aa"
+        }
+      }
+    },
+    {
+      "id": "bwv161.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv161.6.mxl",
+          "md5Checksum": "8c940006244cc547660da929e8be8787"
+        }
+      }
+    },
+    {
+      "id": "bwv124.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv124.6.mxl",
+          "md5Checksum": "5deea56af169e60aa072f117db970fb5"
+        }
+      }
+    },
+    {
+      "id": "bwv96.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv96.6.mxl",
+          "md5Checksum": "10c80b27ce159c1452cb8d294be28030"
+        }
+      }
+    },
+    {
+      "id": "bwv293",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv293.mxl",
+          "md5Checksum": "e1657836b2898819ba6861e27c545c5b"
+        }
+      }
+    },
+    {
+      "id": "bwv244.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.3.mxl",
+          "md5Checksum": "22b0559765618a365c34ebd34309192f"
+        }
+      }
+    },
+    {
+      "id": "bwv287",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv287.mxl",
+          "md5Checksum": "8ea691f40ecd1a7587b4c620f43c2beb"
+        }
+      }
+    },
+    {
+      "id": "bwv250",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv250.mxl",
+          "md5Checksum": "5ca61aeb2ac2143fcf180bae81edcd6c"
+        }
+      }
+    },
+    {
+      "id": "bwv183.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv183.5.mxl",
+          "md5Checksum": "29618f9aee0cd5a3cce8c8f5ae5b5717"
+        }
+      }
+    },
+    {
+      "id": "bwv278",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv278.mxl",
+          "md5Checksum": "6b126f5d9041100de14c4e1774a6d2e7"
+        }
+      }
+    },
+    {
+      "id": "bwv324",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv324.mxl",
+          "md5Checksum": "b57175b3c1731a303780cd26fc3240b0"
+        }
+      }
+    },
+    {
+      "id": "bwv165.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv165.6.mxl",
+          "md5Checksum": "90ed92fca72607cda24d4e39b70afff1"
+        }
+      }
+    },
+    {
+      "id": "bwv120.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv120.6.mxl",
+          "md5Checksum": "9db69dd3e037600efae7dc87743400c6"
+        }
+      }
+    },
+    {
+      "id": "bwv330",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv330.mxl",
+          "md5Checksum": "d05ae3d34c5ca1d0323c6601b0b82313"
+        }
+      }
+    },
+    {
+      "id": "bwv318",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv318.mxl",
+          "md5Checksum": "1d2c792ef212d20d0dbbfb64215e6949"
+        }
+      }
+    },
+    {
+      "id": "bwv13.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv13.6.mxl",
+          "md5Checksum": "4b37ca396b20af44a371865ced847402"
+        }
+      }
+    },
+    {
+      "id": "bwv69.6-a",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv69.6-a.mxl",
+          "md5Checksum": "27ba4ac8895e1512a94a9216daef0bef"
+        }
+      }
+    },
+    {
+      "id": "bwv104.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv104.6.mxl",
+          "md5Checksum": "899aaf2ff43bd9cd1c40068b92378775"
+        }
+      }
+    },
+    {
+      "id": "bwv244.37",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.37.mxl",
+          "md5Checksum": "958c83a85519ffdef2d3bc86d0370387"
+        }
+      }
+    },
+    {
+      "id": "bwv319",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv319.mxl",
+          "md5Checksum": "087e59d968c263fdb9f5966ac9d182db"
+        }
+      }
+    },
+    {
+      "id": "bwv331",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv331.mxl",
+          "md5Checksum": "20d4ca3b48cd357d9ae177540b90dd5f"
+        }
+      }
+    },
+    {
+      "id": "bwv37.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv37.6.mxl",
+          "md5Checksum": "1f81fe20d6c6789907573f36b3b52daf"
+        }
+      }
+    },
+    {
+      "id": "bwv325",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv325.mxl",
+          "md5Checksum": "4eecf9161a94170a85050908f24d2ede"
+        }
+      }
+    },
+    {
+      "id": "bwv72.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv72.6.mxl",
+          "md5Checksum": "ff5c91e5f41702856bc534ef1ce9fd58"
+        }
+      }
+    },
+    {
+      "id": "bwv120.8-a",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv120.8-a.mxl",
+          "md5Checksum": "2c47dab53f8d6d10f890efaa2d226cb7"
+        }
+      }
+    },
+    {
+      "id": "bwv279",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv279.mxl",
+          "md5Checksum": "3a483347c4fcffbcd544098bd15ab6ff"
+        }
+      }
+    },
+    {
+      "id": "bwv113.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv113.8.mxl",
+          "md5Checksum": "438254aac8a1d1d5eb657d0d4ee5a542"
+        }
+      }
+    },
+    {
+      "id": "bwv251",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv251.mxl",
+          "md5Checksum": "297a0f09bf17c6315347b12ed399e370"
+        }
+      }
+    },
+    {
+      "id": "bwv227.1",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv227.1.mxl",
+          "md5Checksum": "ecc745605f074a21941f7607b7a92262"
+        }
+      }
+    },
+    {
+      "id": "bwv286",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv286.mxl",
+          "md5Checksum": "d14705920477751c687d7abb7a6d7592"
+        }
+      }
+    },
+    {
+      "id": "bwv292",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv292.mxl",
+          "md5Checksum": "070d5f37025850bfe30924badbe004e8"
+        }
+      }
+    },
+    {
+      "id": "bwv139.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv139.6.mxl",
+          "md5Checksum": "112b47ae0906e1282688b2d5d2c4fcc6"
+        }
+      }
+    },
+    {
+      "id": "bwv154.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv154.8.mxl",
+          "md5Checksum": "2dab7745b0be90b8bf8f332af1023360"
+        }
+      }
+    },
+    {
+      "id": "bwv284",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv284.mxl",
+          "md5Checksum": "a7d1f960a96080f09aa5caaa9708b9c9"
+        }
+      }
+    },
+    {
+      "id": "bwv227.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv227.3.mxl",
+          "md5Checksum": "c64f808288c9dd50316e1b3164818ddd"
+        }
+      }
+    },
+    {
+      "id": "bwv290",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv290.mxl",
+          "md5Checksum": "334487db61a855f99a794a9ab1b8a8e1"
+        }
+      }
+    },
+    {
+      "id": "bwv253",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv253.mxl",
+          "md5Checksum": "631041395dd414ff1b11235fbbb451cf"
+        }
+      }
+    },
+    {
+      "id": "bwv18.5-w",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv18.5-w.mxl",
+          "md5Checksum": "3bc017fd736d6711a0e3de724def763a"
+        }
+      }
+    },
+    {
+      "id": "bwv333",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv333.mxl",
+          "md5Checksum": "7d5ae90a159ccefdd3611586185c9908"
+        }
+      }
+    },
+    {
+      "id": "bwv327",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv327.mxl",
+          "md5Checksum": "96dfc868a20a072e4f3b5c5eeea9524d"
+        }
+      }
+    },
+    {
+      "id": "bwv56.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv56.5.mxl",
+          "md5Checksum": "c60195354555b0556cea45833ba5f44e"
+        }
+      }
+    },
+    {
+      "id": "bwv122.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv122.6.mxl",
+          "md5Checksum": "7b0f422bae784674d1d8564e814d4228"
+        }
+      }
+    },
+    {
+      "id": "bwv70.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv70.7.mxl",
+          "md5Checksum": "be95acec3d246e41a213e0bd4966bd34"
+        }
+      }
+    },
+    {
+      "id": "bwv326",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv326.mxl",
+          "md5Checksum": "3ed2ef24bd1231fa839bef79848c1474"
+        }
+      }
+    },
+    {
+      "id": "bwv332",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv332.mxl",
+          "md5Checksum": "f200b51c9366c0cbcbe65f2df09671df"
+        }
+      }
+    },
+    {
+      "id": "bwv11.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv11.6.mxl",
+          "md5Checksum": "a754fa8cf462359f8b8a916359836db9"
+        }
+      }
+    },
+    {
+      "id": "bwv252",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv252.mxl",
+          "md5Checksum": "5982116487f7e01ef44ea438e582050b"
+        }
+      }
+    },
+    {
+      "id": "bwv158.4",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv158.4.mxl",
+          "md5Checksum": "448e68fbf0d4a26dde4bf84e42a40a7b"
+        }
+      }
+    },
+    {
+      "id": "bwv291",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv291.mxl",
+          "md5Checksum": "7b401ef710c5eff8faa0a6d9c672c722"
+        }
+      }
+    },
+    {
+      "id": "bwv285",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv285.mxl",
+          "md5Checksum": "6d9e9fcd0da13e5351f74141ae7d05d5"
+        }
+      }
+    },
+    {
+      "id": "bwv288",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv288.mxl",
+          "md5Checksum": "54b689466b4ad973b288f4b9d2b6bc14"
+        }
+      }
+    },
+    {
+      "id": "bwv156.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv156.6.mxl",
+          "md5Checksum": "8608f76cf8b3b97f7764cbf1c5710eb5"
+        }
+      }
+    },
+    {
+      "id": "bwv263",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv263.mxl",
+          "md5Checksum": "b097bd13243e689750cc4036772c59c8"
+        }
+      }
+    },
+    {
+      "id": "bwv277",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv277.mxl",
+          "md5Checksum": "cf9c4c42b068c9e6f9eee110dfbf4923"
+        }
+      }
+    },
+    {
+      "id": "bwv248.9-s",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.9-s.mxl",
+          "md5Checksum": "f32b05e51642e640de5434c11b151612"
+        }
+      }
+    },
+    {
+      "id": "bwv39.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv39.7.mxl",
+          "md5Checksum": "c19302faeef7910e8a1945460feecdd7"
+        }
+      }
+    },
+    {
+      "id": "bwv81.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv81.7.mxl",
+          "md5Checksum": "ef611624af56505df1700216152dc798"
+        }
+      }
+    },
+    {
+      "id": "bwv317",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv317.mxl",
+          "md5Checksum": "43fccad82d440a476797879ed79d9d49"
+        }
+      }
+    },
+    {
+      "id": "bwv303",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv303.mxl",
+          "md5Checksum": "84677679e8f2ef4f6c91e78adf5f974c"
+        }
+      }
+    },
+    {
+      "id": "bwv227.11",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv227.11.mxl",
+          "md5Checksum": "6dbe2b6194a9901bd3f8d6902f101e1f"
+        }
+      }
+    },
+    {
+      "id": "bwv83.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv83.5.mxl",
+          "md5Checksum": "6fbca491b90c9d71af45a4d761896a3e"
+        }
+      }
+    },
+    {
+      "id": "bwv248.35-3c",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.35-3c.mxl",
+          "md5Checksum": "5e6369a3c8c31d72b5cc718a17b63545"
+        }
+      }
+    },
+    {
+      "id": "bwv302",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv302.mxl",
+          "md5Checksum": "09fbb947761881b463b2c21c007b6baa"
+        }
+      }
+    },
+    {
+      "id": "bwv316",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv316.mxl",
+          "md5Checksum": "b0b1ed93c801d420125eb4f727028bc0"
+        }
+      }
+    },
+    {
+      "id": "bwv244.10",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.10.mxl",
+          "md5Checksum": "cbb1341f16a95ab2a91edabdb11ad789"
+        }
+      }
+    },
+    {
+      "id": "bwv276",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv276.mxl",
+          "md5Checksum": "e5c1f966922194d57d828ff3266d53b4"
+        }
+      }
+    },
+    {
+      "id": "bwv262",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv262.mxl",
+          "md5Checksum": "dd9ee09f7940b8562ba1655c4c5af305"
+        }
+      }
+    },
+    {
+      "id": "bwv41.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv41.6.mxl",
+          "md5Checksum": "fcfc5e3fc833b7c8798e794b5c24456b"
+        }
+      }
+    },
+    {
+      "id": "bwv289",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv289.mxl",
+          "md5Checksum": "5cfa8c15eddb112787345e2e966ccd61"
+        }
+      }
+    },
+    {
+      "id": "bwv65.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv65.7.mxl",
+          "md5Checksum": "1abdb18242a09ee96bab6776074df84b"
+        }
+      }
+    },
+    {
+      "id": "bwv20.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv20.7.mxl",
+          "md5Checksum": "a0eb68dc45ff1f683764adb61dbe7b37"
+        }
+      }
+    },
+    {
+      "id": "bwv172.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv172.6.mxl",
+          "md5Checksum": "157e0975104b1b17887719fc39d7002a"
+        }
+      }
+    },
+    {
+      "id": "bwv2.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv2.6.mxl",
+          "md5Checksum": "22cd0adfecc1a8b95213414e3399cb9e"
+        }
+      }
+    },
+    {
+      "id": "bwv162.6-lpz",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv162.6-lpz.mxl",
+          "md5Checksum": "fdc94dd7ccb7d4a92670feeaaccc28d9"
+        }
+      }
+    },
+    {
+      "id": "bwv135.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv135.6.mxl",
+          "md5Checksum": "36b7de946d63dde742ec2adc90eb0a42"
+        }
+      }
+    },
+    {
+      "id": "bwv67.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv67.7.mxl",
+          "md5Checksum": "9801291f46e50ee21a5d02f6fe0d965a"
+        }
+      }
+    },
+    {
+      "id": "bwv274",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv274.mxl",
+          "md5Checksum": "36ed048071670cdcf087cdc64665b899"
+        }
+      }
+    },
+    {
+      "id": "bwv260",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv260.mxl",
+          "md5Checksum": "4bdc3398008354d8d85b88cc8deeefa2"
+        }
+      }
+    },
+    {
+      "id": "bwv94.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv94.8.mxl",
+          "md5Checksum": "4d2c1e938c5819ec0d857ee1111bdb40"
+        }
+      }
+    },
+    {
+      "id": "bwv248.9-1",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.9-1.mxl",
+          "md5Checksum": "aa97fce0d1aff06f40cf39d4559718dc"
+        }
+      }
+    },
+    {
+      "id": "bwv108.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv108.6.mxl",
+          "md5Checksum": "cdee8ccc6c814bcd24650cfed210db3d"
+        }
+      }
+    },
+    {
+      "id": "bwv328",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv328.mxl",
+          "md5Checksum": "b790323f3d4236ef21ea2f471c867d62"
+        }
+      }
+    },
+    {
+      "id": "bwv300",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv300.mxl",
+          "md5Checksum": "f40ba418a605a1fa4103957d04378ac7"
+        }
+      }
+    },
+    {
+      "id": "bwv314",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv314.mxl",
+          "md5Checksum": "a9dd1f487e320d50418cf863854af969"
+        }
+      }
+    },
+    {
+      "id": "bwv169.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv169.7.mxl",
+          "md5Checksum": "6bc349e76345bd9590ff1549c98f85f0"
+        }
+      }
+    },
+    {
+      "id": "bwv194.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv194.6.mxl",
+          "md5Checksum": "26ac86fcd0d474a7aa378dd00baf4c7a"
+        }
+      }
+    },
+    {
+      "id": "bwv248.35-3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.35-3.mxl",
+          "md5Checksum": "0a22e280a4ad6547373173aa606f2a1a"
+        }
+      }
+    },
+    {
+      "id": "bwv315",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv315.mxl",
+          "md5Checksum": "c84ae8562e114c6f0a4d149d125a286b"
+        }
+      }
+    },
+    {
+      "id": "bwv301",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv301.mxl",
+          "md5Checksum": "c73c57e56ffb6eb34c1ea412149cfc93"
+        }
+      }
+    },
+    {
+      "id": "bwv329",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv329.mxl",
+          "md5Checksum": "a843a5187c0b62d5328c499b92b37ef3"
+        }
+      }
+    },
+    {
+      "id": "bwv261",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv261.mxl",
+          "md5Checksum": "e9cf1c7c80dadb5ca1b08562ab429fbf"
+        }
+      }
+    },
+    {
+      "id": "bwv275",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv275.mxl",
+          "md5Checksum": "a876d2ddb2dd5be6818e64f5df75acdb"
+        }
+      }
+    },
+    {
+      "id": "bwv229.2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv229.2.mxl",
+          "md5Checksum": "cd719890a7515f1488546744298b5d97"
+        }
+      }
+    },
+    {
+      "id": "bwv137.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv137.5.mxl",
+          "md5Checksum": "76dbd63fea082b4617aa635c754f0829"
+        }
+      }
+    },
+    {
+      "id": "bwv111.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv111.6.mxl",
+          "md5Checksum": "bc92125c58bee309a680ad694f26274c"
+        }
+      }
+    },
+    {
+      "id": "bwv149.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv149.7.mxl",
+          "md5Checksum": "3a6efbd8d3c38a12a21517db2a702c4d"
+        }
+      }
+    },
+    {
+      "id": "bwv87.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv87.7.mxl",
+          "md5Checksum": "12e9958c08df8bf1962a35ed543fabe3"
+        }
+      }
+    },
+    {
+      "id": "bwv271",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv271.mxl",
+          "md5Checksum": "e68f9d409fcb7d96fbcc6e4f2f59183c"
+        }
+      }
+    },
+    {
+      "id": "bwv248.17",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.17.mxl",
+          "md5Checksum": "dbed393763e3aee8dd828ae3f91111e7"
+        }
+      }
+    },
+    {
+      "id": "bwv265",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv265.mxl",
+          "md5Checksum": "1836bf3b7ed4defa10abc47cfad8238b"
+        }
+      }
+    },
+    {
+      "id": "bwv74.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv74.8.mxl",
+          "md5Checksum": "de5f85feca56162cef03b79417cc5135"
+        }
+      }
+    },
+    {
+      "id": "bwv259",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv259.mxl",
+          "md5Checksum": "a14c4a1b83a14a27ab4b303d2503c88e"
+        }
+      }
+    },
+    {
+      "id": "bwv305",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv305.mxl",
+          "md5Checksum": "40d09977341a3c0819a688cb784f5c41"
+        }
+      }
+    },
+    {
+      "id": "bwv311",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv311.mxl",
+          "md5Checksum": "1229585e86d44edecb395d8fa9a871d5"
+        }
+      }
+    },
+    {
+      "id": "bwv339",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv339.mxl",
+          "md5Checksum": "8db0b419a2ac080042824358fd217c69"
+        }
+      }
+    },
+    {
+      "id": "bwv115.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv115.6.mxl",
+          "md5Checksum": "7ee8cef7b9e19513639410d610af2b0b"
+        }
+      }
+    },
+    {
+      "id": "bwv244.17",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.17.mxl",
+          "md5Checksum": "7b8f47b33d053cbee8420d4422cab16e"
+        }
+      }
+    },
+    {
+      "id": "bwv846",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv846.mxl",
+          "md5Checksum": "8f279955bc1d097acca9f3c2a4479999"
+        }
+      }
+    },
+    {
+      "id": "bwv26.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv26.6.mxl",
+          "md5Checksum": "6feaae3a76cf411349b108c96fb136c6"
+        }
+      }
+    },
+    {
+      "id": "bwv117.4",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv117.4.mxl",
+          "md5Checksum": "b8c2c3510a4e8f1f14a0b79253027309"
+        }
+      }
+    },
+    {
+      "id": "bwv338",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv338.mxl",
+          "md5Checksum": "2a6fbe57e5a0650e0fa6d56f1339e802"
+        }
+      }
+    },
+    {
+      "id": "bwv310",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv310.mxl",
+          "md5Checksum": "9acc45e2e72df9ce528154792abe4d83"
+        }
+      }
+    },
+    {
+      "id": "bwv304",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv304.mxl",
+          "md5Checksum": "0fa9b81718bc9e0b674d1dfb717cbd30"
+        }
+      }
+    },
+    {
+      "id": "bwv6.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv6.6.mxl",
+          "md5Checksum": "5aa35455dfd1fdf43f922a4ecb0d14cb"
+        }
+      }
+    },
+    {
+      "id": "bwv145-a",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv145-a.mxl",
+          "md5Checksum": "bb9444d8bb61b0ae51f86dbde9196d21"
+        }
+      }
+    },
+    {
+      "id": "bwv258",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv258.mxl",
+          "md5Checksum": "5e23492b1c78c0077e0f9826f40958aa"
+        }
+      }
+    },
+    {
+      "id": "bwv31.9",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv31.9.mxl",
+          "md5Checksum": "712dfaa4d8696b42564c2bc4841dc643"
+        }
+      }
+    },
+    {
+      "id": "bwv264",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv264.mxl",
+          "md5Checksum": "a13697c03186196027c1d3450d2338ea"
+        }
+      }
+    },
+    {
+      "id": "bwv270",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv270.mxl",
+          "md5Checksum": "dcd5dd28ff0bd9759e7ac4db314104da"
+        }
+      }
+    },
+    {
+      "id": "bwv190.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv190.7.mxl",
+          "md5Checksum": "8d2a54447b247729aa10887569288f44"
+        }
+      }
+    },
+    {
+      "id": "bwv154.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv154.3.mxl",
+          "md5Checksum": "e11813db75c2426a4c4941708c9e3b68"
+        }
+      }
+    },
+    {
+      "id": "bwv245.40",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.40.mxl",
+          "md5Checksum": "603aa4dfae5464283c4e0f85b07878f8"
+        }
+      }
+    },
+    {
+      "id": "bwv85.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv85.6.mxl",
+          "md5Checksum": "9ce089f19edb6420d96e97e72d6c6c3c"
+        }
+      }
+    },
+    {
+      "id": "bwv299",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv299.mxl",
+          "md5Checksum": "2761589aa58c271ee5e2cad3f139eeb4"
+        }
+      }
+    },
+    {
+      "id": "bwv128.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv128.5.mxl",
+          "md5Checksum": "f1f95dc1bfc6fddc17c237b90863952a"
+        }
+      }
+    },
+    {
+      "id": "bwv19.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv19.7.mxl",
+          "md5Checksum": "64e26123c970c6df57df2d2cd15ce4c2"
+        }
+      }
+    },
+    {
+      "id": "bwv266",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv266.mxl",
+          "md5Checksum": "2caddff879d20bd8d38d43cbfef38275"
+        }
+      }
+    },
+    {
+      "id": "bwv272",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv272.mxl",
+          "md5Checksum": "eac3e905e193615d1cc9970c7ce1b0ef"
+        }
+      }
+    },
+    {
+      "id": "bwv248.28",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.28.mxl",
+          "md5Checksum": "e0998e8dd97429e6b23825e9a471b42c"
+        }
+      }
+    },
+    {
+      "id": "bwv244.29-a",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.29-a.mxl",
+          "md5Checksum": "4dd6024f1554b90f07c2df00ff766820"
+        }
+      }
+    },
+    {
+      "id": "bwv312",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv312.mxl",
+          "md5Checksum": "250ee8d0c1ebeed4666a17e1bfcae0fd"
+        }
+      }
+    },
+    {
+      "id": "bwv306",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv306.mxl",
+          "md5Checksum": "0400e22f8f99b4f093c8ea9a76e99695"
+        }
+      }
+    },
+    {
+      "id": "bwv133.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv133.6.mxl",
+          "md5Checksum": "2b5562f51525ec54763334e0cbcdb5a0"
+        }
+      }
+    },
+    {
+      "id": "bwv176.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv176.6.mxl",
+          "md5Checksum": "4b42a2f4203418faaa3821712f37ab82"
+        }
+      }
+    },
+    {
+      "id": "bwv174.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv174.5.mxl",
+          "md5Checksum": "5a4ea3e60ec7b8e9e00b5f7dadd25a24"
+        }
+      }
+    },
+    {
+      "id": "bwv45.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv45.7.mxl",
+          "md5Checksum": "b6679501fe1cb2e555a82bb4e5f4b9ad"
+        }
+      }
+    },
+    {
+      "id": "bwv119.9",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv119.9.mxl",
+          "md5Checksum": "a8e409fd385d0e5141363eb728eb9b8f"
+        }
+      }
+    },
+    {
+      "id": "bwv24.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv24.6.mxl",
+          "md5Checksum": "9603158d374a60a6697586ef0dbe2a05"
+        }
+      }
+    },
+    {
+      "id": "bwv244.15",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.15.mxl",
+          "md5Checksum": "b388e89a7e607abc67964a4847924120"
+        }
+      }
+    },
+    {
+      "id": "bwv47.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv47.5.mxl",
+          "md5Checksum": "a6757fae63a70e1844737fe34e10f9e4"
+        }
+      }
+    },
+    {
+      "id": "bwv92.9",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv92.9.mxl",
+          "md5Checksum": "f0db313de0d79696a6dd969c7e4846ae"
+        }
+      }
+    },
+    {
+      "id": "bwv307",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv307.mxl",
+          "md5Checksum": "82fdbb90a292289bc53b706df237c51b"
+        }
+      }
+    },
+    {
+      "id": "bwv313",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv313.mxl",
+          "md5Checksum": "4451fc4d1dfc214eaa3227855f763d0f"
+        }
+      }
+    },
+    {
+      "id": "bwv273",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv273.mxl",
+          "md5Checksum": "e54169336e4cafd674acabcc5a66b407"
+        }
+      }
+    },
+    {
+      "id": "bwv267",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv267.mxl",
+          "md5Checksum": "bb4ea2b828214a006f1634e1a38ca3ec"
+        }
+      }
+    },
+    {
+      "id": "bwv298",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv298.mxl",
+          "md5Checksum": "b324e4d201b5be69e426594613ea974b"
+        }
+      }
+    },
+    {
+      "id": "bwv248.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.5.mxl",
+          "md5Checksum": "28ecb1055e88cb09d2b85b9897d9fa03"
+        }
+      }
+    },
+    {
+      "id": "bwv65.2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv65.2.mxl",
+          "md5Checksum": "44f1a1212378475450a0dc5a4025e2fa"
+        }
+      }
+    },
+    {
+      "id": "bwv78.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv78.7.mxl",
+          "md5Checksum": "71f6654d2ef56dd08dbb8d00f9555a1a"
+        }
+      }
+    },
+    {
+      "id": "bwv248.33-3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.33-3.mxl",
+          "md5Checksum": "7d1a56ddbbb25510affd073b2e9e6bb7"
+        }
+      }
+    },
+    {
+      "id": "bwv153.1",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv153.1.mxl",
+          "md5Checksum": "d864c8685cd35a26d6c6a8e784e7119e"
+        }
+      }
+    },
+    {
+      "id": "bwv245.26",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.26.mxl",
+          "md5Checksum": "32bad039599af2067f7563fa4a198886"
+        }
+      }
+    },
+    {
+      "id": "bwv197.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv197.5.mxl",
+          "md5Checksum": "8d501e40f52700ecdb44fddbb04295c5"
+        }
+      }
+    },
+    {
+      "id": "bwv248.53-5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.53-5.mxl",
+          "md5Checksum": "f31251d6a090bbb86817218c9b32d49d"
+        }
+      }
+    },
+    {
+      "id": "bwv348",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv348.mxl",
+          "md5Checksum": "fb744cb1540a7aa81af8c76fc78ae6a9"
+        }
+      }
+    },
+    {
+      "id": "bwv112.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv112.5.mxl",
+          "md5Checksum": "5ae4bb0a4e432157f283cb0414415e06"
+        }
+      }
+    },
+    {
+      "id": "bwv157.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv157.5.mxl",
+          "md5Checksum": "82cf53d10ccedc6f2db2317b5c059508"
+        }
+      }
+    },
+    {
+      "id": "bwv171.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv171.6.mxl",
+          "md5Checksum": "3eada8cd83f3f0bd0d8ceb36c355412b"
+        }
+      }
+    },
+    {
+      "id": "bwv374",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv374.mxl",
+          "md5Checksum": "6c7563afc2ab710c448674e00365489d"
+        }
+      }
+    },
+    {
+      "id": "bwv412",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv412.mxl",
+          "md5Checksum": "c24849b6a23aca14bed231929a1df533"
+        }
+      }
+    },
+    {
+      "id": "bwv406",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv406.mxl",
+          "md5Checksum": "f39df8b5ee754c480e6d39713622b6cc"
+        }
+      }
+    },
+    {
+      "id": "bwv360",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv360.mxl",
+          "md5Checksum": "0ba697ac86e13ff6711fd1fc1416380b"
+        }
+      }
+    },
+    {
+      "id": "bwv110.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv110.7.mxl",
+          "md5Checksum": "5b336c87ce5795dca27d148f2643e79b"
+        }
+      }
+    },
+    {
+      "id": "bwv3.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv3.6.mxl",
+          "md5Checksum": "41ea0d21c8dab5e8d50483cce644319d"
+        }
+      }
+    },
+    {
+      "id": "bwv64.4",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv64.4.mxl",
+          "md5Checksum": "1d4535499224f49d7c60b214def16cb6"
+        }
+      }
+    },
+    {
+      "id": "bwv42.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv42.7.mxl",
+          "md5Checksum": "37e199bfec744ecd26e3b69321502b8d"
+        }
+      }
+    },
+    {
+      "id": "bwv407",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv407.mxl",
+          "md5Checksum": "b1d0c60d5008cb00b4893af38004cc9f"
+        }
+      }
+    },
+    {
+      "id": "bwv361",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv361.mxl",
+          "md5Checksum": "eb8c99cca29f0b9661ac728efa416213"
+        }
+      }
+    },
+    {
+      "id": "bwv375",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv375.mxl",
+          "md5Checksum": "1b70741e58b904262500eafcd1d2b4d9"
+        }
+      }
+    },
+    {
+      "id": "bwv413",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv413.mxl",
+          "md5Checksum": "185d904833d23fe90f92b6fedbb94a04"
+        }
+      }
+    },
+    {
+      "id": "bwv66.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv66.6.mxl",
+          "md5Checksum": "27393815e0823459ea55d8df1108991a"
+        }
+      }
+    },
+    {
+      "id": "bwv349",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv349.mxl",
+          "md5Checksum": "933b39d0cb22296d8b332d8573d018a0"
+        }
+      }
+    },
+    {
+      "id": "bwv195.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv195.6.mxl",
+          "md5Checksum": "2cc5e3ee9e8ba96beabbf3cd83e602c9"
+        }
+      }
+    },
+    {
+      "id": "bwv168.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv168.6.mxl",
+          "md5Checksum": "c6fd1cdca8ede99f71a566e737a92b18"
+        }
+      }
+    },
+    {
+      "id": "bwv248.12-2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv248.12-2.mxl",
+          "md5Checksum": "123fa1de96b8c970aadb84e1bdba21f7"
+        }
+      }
+    },
+    {
+      "id": "bwv190.7-inst",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv190.7-inst.mxl",
+          "md5Checksum": "83510cf553750d31646593c142448f35"
+        }
+      }
+    },
+    {
+      "id": "bwv388",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv388.mxl",
+          "md5Checksum": "ee5ddffb6b9c6f2a3ef352380bc86723"
+        }
+      }
+    },
+    {
+      "id": "bwv363",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv363.mxl",
+          "md5Checksum": "79a4d28bd5836e6029148abb8888167b"
+        }
+      }
+    },
+    {
+      "id": "bwv405",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv405.mxl",
+          "md5Checksum": "2447b50708b6118cc3195223ad2e6529"
+        }
+      }
+    },
+    {
+      "id": "bwv411",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv411.mxl",
+          "md5Checksum": "4354fae9236591dff41aa60533b662d8"
+        }
+      }
+    },
+    {
+      "id": "bwv377",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv377.mxl",
+          "md5Checksum": "1cacd25f9f9353714a8ef527ec3ce82f"
+        }
+      }
+    },
+    {
+      "id": "bwv79.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv79.3.mxl",
+          "md5Checksum": "f7b54fefb91ef8ab6fe42ea1a35d5dc0"
+        }
+      }
+    },
+    {
+      "id": "bwv99.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv99.6.mxl",
+          "md5Checksum": "cd947b87a72306063e0267982036fadd"
+        }
+      }
+    },
+    {
+      "id": "bwv97.9",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv97.9.mxl",
+          "md5Checksum": "5e46581a9bdcb747d229eec6172ae5d0"
+        }
+      }
+    },
+    {
+      "id": "bwv155.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv155.5.mxl",
+          "md5Checksum": "0ac9e4dee36f3e0c26a8a75cbe6d0766"
+        }
+      }
+    },
+    {
+      "id": "bwv136.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv136.6.mxl",
+          "md5Checksum": "646951f30d56be15415e369a6554f800"
+        }
+      }
+    },
+    {
+      "id": "bwv410",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv410.mxl",
+          "md5Checksum": "ebcd899122e59a18db4cf4c0edeea51d"
+        }
+      }
+    },
+    {
+      "id": "bwv376",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv376.mxl",
+          "md5Checksum": "7887046fa96c9d51e885c17838e6821e"
+        }
+      }
+    },
+    {
+      "id": "bwv1.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv1.6.mxl",
+          "md5Checksum": "4d37423f27689253ca438a5eeb661fb4"
+        }
+      }
+    },
+    {
+      "id": "bwv362",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv362.mxl",
+          "md5Checksum": "aec8cd395e384ce9e260e33db4530c2d"
+        }
+      }
+    },
+    {
+      "id": "bwv404",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv404.mxl",
+          "md5Checksum": "6600c9c1df589fa038b0077802072e5f"
+        }
+      }
+    },
+    {
+      "id": "bwv40.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv40.6.mxl",
+          "md5Checksum": "19f41887a82b04725a9c6e60dc43ff54"
+        }
+      }
+    },
+    {
+      "id": "bwv438",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv438.mxl",
+          "md5Checksum": "26c2e709b3c3a435eabf934849917820"
+        }
+      }
+    },
+    {
+      "id": "bwv389",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv389.mxl",
+          "md5Checksum": "a50a0cb6245ba6d3ad22cd95c9bb9588"
+        }
+      }
+    },
+    {
+      "id": "bwv38.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv38.6.mxl",
+          "md5Checksum": "baeef79dd3d1e1b5013040dadd8e181f"
+        }
+      }
+    },
+    {
+      "id": "bwv57.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv57.8.mxl",
+          "md5Checksum": "635acbdfd2ee921f64c2546b9eadbb30"
+        }
+      }
+    },
+    {
+      "id": "bwv36.8-2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv36.8-2.mxl",
+          "md5Checksum": "ae3b2560558424887dd7127762c8bde0"
+        }
+      }
+    },
+    {
+      "id": "bwv59.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv59.3.mxl",
+          "md5Checksum": "63d026a1c48f9aa75de20965f21138fe"
+        }
+      }
+    },
+    {
+      "id": "bwv151.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv151.5.mxl",
+          "md5Checksum": "8cffb9fb4ce8fe897f83f02ecf4456b8"
+        }
+      }
+    },
+    {
+      "id": "bwv399",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv399.mxl",
+          "md5Checksum": "b18cd6b644632dd7329dd2aee33af437"
+        }
+      }
+    },
+    {
+      "id": "bwv400",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv400.mxl",
+          "md5Checksum": "7440f1a3d774575e2dd6d58dd746aa5f"
+        }
+      }
+    },
+    {
+      "id": "bwv366",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv366.mxl",
+          "md5Checksum": "18a663fc14e80242b05a2d7fb4b19b10"
+        }
+      }
+    },
+    {
+      "id": "bwv372",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv372.mxl",
+          "md5Checksum": "23413344064c96f25c38ae7b90c12a07"
+        }
+      }
+    },
+    {
+      "id": "bwv414",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv414.mxl",
+          "md5Checksum": "bf8693b428f6d04e2c3a741fd470d371"
+        }
+      }
+    },
+    {
+      "id": "bwv428",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv428.mxl",
+          "md5Checksum": "e599957000dfa482d7856a704b2df2b6"
+        }
+      }
+    },
+    {
+      "id": "bwv79.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv79.6.mxl",
+          "md5Checksum": "4d878bb5128748cd65132846157e6586"
+        }
+      }
+    },
+    {
+      "id": "bwv64.2",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv64.2.mxl",
+          "md5Checksum": "5da7396ea94dd9eefc22ac7d4b1f1f76"
+        }
+      }
+    },
+    {
+      "id": "bwv40.3",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv40.3.mxl",
+          "md5Checksum": "03fd9d32b73f54dff30fedbacf941dbc"
+        }
+      }
+    },
+    {
+      "id": "bwv429",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv429.mxl",
+          "md5Checksum": "f9943ca29dc6c594873b10177c454a0f"
+        }
+      }
+    },
+    {
+      "id": "bwv373",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv373.mxl",
+          "md5Checksum": "13c0010d8510234310682e60ff0bbe55"
+        }
+      }
+    },
+    {
+      "id": "bwv415",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv415.mxl",
+          "md5Checksum": "a9a13f4285301d39aae0696e2ca0ac12"
+        }
+      }
+    },
+    {
+      "id": "bwv401",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv401.mxl",
+          "md5Checksum": "5579a05904889125d9d1512dc351ebd6"
+        }
+      }
+    },
+    {
+      "id": "bwv367",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv367.mxl",
+          "md5Checksum": "76bfe0e78830e8aa5ede26e653ab1f36"
+        }
+      }
+    },
+    {
+      "id": "bwv398",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv398.mxl",
+          "md5Checksum": "1709dcdd19eb56640df6cfa2b2f4a04e"
+        }
+      }
+    },
+    {
+      "id": "bwv25.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv25.6.mxl",
+          "md5Checksum": "3a96135b4fb7546cdde29428b18c0e98"
+        }
+      }
+    },
+    {
+      "id": "bwv116.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv116.6.mxl",
+          "md5Checksum": "8579bcc47890e8849ddd257b512ca585"
+        }
+      }
+    },
+    {
+      "id": "bwv44.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv44.7.mxl",
+          "md5Checksum": "f947efe94ec93b3940d79d20fa51d13e"
+        }
+      }
+    },
+    {
+      "id": "bwv5.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv5.7.mxl",
+          "md5Checksum": "6b9467522bfe07dbc99ca31529ee1c48"
+        }
+      }
+    },
+    {
+      "id": "bwv245.37",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.37.mxl",
+          "md5Checksum": "3657007e97fa844685a87acc5d64e2e4"
+        }
+      }
+    },
+    {
+      "id": "bwv70.11",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv70.11.mxl",
+          "md5Checksum": "7de7f9ff29a5da882fb59ffe6e36325e"
+        }
+      }
+    },
+    {
+      "id": "bwv27.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv27.6.mxl",
+          "md5Checksum": "57b90c413d36eee5a057b75a1c2ad384"
+        }
+      }
+    },
+    {
+      "id": "bwv175.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv175.7.mxl",
+          "md5Checksum": "191bc3fc015f240cdc221d9a41d0c021"
+        }
+      }
+    },
+    {
+      "id": "bwv62.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv62.6.mxl",
+          "md5Checksum": "7b420b70430335c4b1e213760dd8ba0d"
+        }
+      }
+    },
+    {
+      "id": "bwv7.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv7.7.mxl",
+          "md5Checksum": "9075e43246a9009ff40c10274021e64b"
+        }
+      }
+    },
+    {
+      "id": "bwv177.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv177.5.mxl",
+          "md5Checksum": "5ff26c65cc676b8f5150995a6dba6c55"
+        }
+      }
+    },
+    {
+      "id": "bwv417",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv417.mxl",
+          "md5Checksum": "d7cc3c3e4c23eeb910738e2d4ad43b5e"
+        }
+      }
+    },
+    {
+      "id": "bwv371",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv371.mxl",
+          "md5Checksum": "959504a84bf4702f8bcf501d140e8a74"
+        }
+      }
+    },
+    {
+      "id": "bwv365",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv365.mxl",
+          "md5Checksum": "e055284c83808f6af13c2a52684a612c"
+        }
+      }
+    },
+    {
+      "id": "bwv403",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv403.mxl",
+          "md5Checksum": "ca35a99139a47cfc8127da174ed36e96"
+        }
+      }
+    },
+    {
+      "id": "bwv359",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv359.mxl",
+          "md5Checksum": "214e87d070472576734b01bdc704cce6"
+        }
+      }
+    },
+    {
+      "id": "bwv84.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv84.5.mxl",
+          "md5Checksum": "e4768d217e6ea60ad102f895cc0e4f96"
+        }
+      }
+    },
+    {
+      "id": "bwv146.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv146.8.mxl",
+          "md5Checksum": "26d09b3a68be95c8675d7a5c86a77c38"
+        }
+      }
+    },
+    {
+      "id": "bwv148.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv148.6.mxl",
+          "md5Checksum": "45eb7a4dcccc8b8b66a01ac4f991183f"
+        }
+      }
+    },
+    {
+      "id": "bwv358",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv358.mxl",
+          "md5Checksum": "379cd937326c869f638436935ae14254"
+        }
+      }
+    },
+    {
+      "id": "bwv244.62",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv244.62.mxl",
+          "md5Checksum": "db1c875a5c78d4c99c42d933405327f0"
+        }
+      }
+    },
+    {
+      "id": "bwv364",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv364.mxl",
+          "md5Checksum": "39a26bb3ca930e5fe2bc13550cafd461"
+        }
+      }
+    },
+    {
+      "id": "bwv402",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv402.mxl",
+          "md5Checksum": "214f31af1521611e4d1436eea9433e38"
+        }
+      }
+    },
+    {
+      "id": "bwv416",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv416.mxl",
+          "md5Checksum": "a072041bc55831f8286c396afb4294d3"
+        }
+      }
+    },
+    {
+      "id": "bwv370",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv370.mxl",
+          "md5Checksum": "b71aa969c0a45cb07b69860d2b474ba4"
+        }
+      }
+    },
+    {
+      "id": "bwv86.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv86.6.mxl",
+          "md5Checksum": "aeb40cf1f3367e1bfca449920c02376b"
+        }
+      }
+    },
+    {
+      "id": "bwv194.12",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv194.12.mxl",
+          "md5Checksum": "8b35e4f8573fbc76ee358501b82bdee5"
+        }
+      }
+    },
+    {
+      "id": "bwv114.7",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv114.7.mxl",
+          "md5Checksum": "9eb6f7e7e88f1c21ed984c31e4eb01f0"
+        }
+      }
+    },
+    {
+      "id": "bwv46.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv46.6.mxl",
+          "md5Checksum": "2aa36d09d46b5f8aebec36eede5b1a74"
+        }
+      }
+    },
+    {
+      "id": "bwv60.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv60.5.mxl",
+          "md5Checksum": "246a38284d7f7611b7b84136912d40f4"
+        }
+      }
+    },
+    {
+      "id": "bwv177.4",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv177.4.mxl",
+          "md5Checksum": "4cfd412e0cd0121cd03f7b7a5902d345"
+        }
+      }
+    },
+    {
+      "id": "bwv153.5",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv153.5.mxl",
+          "md5Checksum": "d33327eabdd14f11cd25057243baa537"
+        }
+      }
+    },
+    {
+      "id": "bwv130.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv130.6.mxl",
+          "md5Checksum": "52e147d7d907506fb87826e91fc8f1d6"
+        }
+      }
+    },
+    {
+      "id": "bwv245.22",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv245.22.mxl",
+          "md5Checksum": "5db9f45b189be2e9606fcc551ae71a0d"
+        }
+      }
+    },
+    {
+      "id": "bwv29.8",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv29.8.mxl",
+          "md5Checksum": "3fdb9b419a1ddd6fa991310ab2ca81d1"
+        }
+      }
+    },
+    {
+      "id": "bwv188.6",
+      "files": {
+        "mxml": {
+          "path": "output/jsb_chorales-v1.0.0-full/bwv188.6.mxl",
+          "md5Checksum": "d4270c4b7a38033ef69fcce9fb40bf82"
+        }
+      }
+    }
+  ]
+}
