@@ -1,39 +1,61 @@
 
 syntax = "proto3";
 
+// A message describing the index for a dataset.
 message DatasetIndex {
-  // Dataset index version
+  // The version of the index.
   string version = 1;
+  // The entries of the dataset.
   repeated DatasetEntry entries = 2;
 }
 
+// A message describing an entry of the dataset.
 message DatasetEntry {
+  // Unique ID.
   string id = 1;
+  // Metadata associated with the entry.
+  // This field can be of different types depending on the entries of the dataset.
   oneof metadata {
     MusicTrackMetadata music_metadata = 2;
   }
+  // The files associated with the entry. The key has to be used as unique ID for a file.
   map<string, EntryFile> files = 3;
+  // To which split of the dataset the entry belongs.
+  // This field is useful if we want to split the dataset a priori (eg. ML applications).
   string split = 4;
 
   // -------------------------- ENTRY METADATA MESSAGES DEFINITIONS --------------------------
+  // A message describing the metadata for a MusicTrack entry.
   message MusicTrackMetadata {
+    // The track's composer.
     string composer = 1;
+    // The track's title.
     string title = 2;
+    // The year the track has been released.
     int32 year = 4;
+    // The duration in seconds.
     double duration = 5;
+    // Where the track has been released (LP, digital, ecc...).
     string release = 6;
   }
 }
 
+// A message describing a file associated to a dataset's entry.
 message EntryFile {
+  // Path to the file on a filesystem (could be a local path but also a path to a remote storage service).
   string path = 1;
+  // The MD5 checksum for the path.
   string md5_checksum = 2;
+  // Attributes associated with the file.
+  // This field can be of different types depending on the file it relates to.
   oneof attributes {
     SymbolicMusicFileAttributes symbolic_music_attributes = 3;
   }
 
   // -------------------------- FILE ATTRIBUTES MESSAGES DEFINITIONS --------------------------
+  // A message describing attributes associated to a symbolic music file (MIDI, MusicXML, ecc...).
   message SymbolicMusicFileAttributes {
+    // The matched confidence score for audio alignment. See the Lakh MIDI Dataset for an example.
     double match_score = 1;
   }
 }
