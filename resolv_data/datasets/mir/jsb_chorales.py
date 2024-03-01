@@ -1,4 +1,10 @@
-"""JSB Chorales Dataset."""
+"""
+Module Name: jsb_chorales.py.
+Description: JSB Chorales Dataset.
+Author: Matteo Pettenò.
+Copyright (c) 2024, Matteo Pettenò
+License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+"""
 from pathlib import Path
 from typing import Dict, List, Union
 

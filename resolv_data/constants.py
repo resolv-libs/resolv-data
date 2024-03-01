@@ -1,4 +1,10 @@
-""" This module contains constants relative to the datasets. """
+"""
+Module Name: constants.py.
+Description: This module contains constants relative to the datasets.
+Author: Matteo Pettenò.
+Copyright (c) 2024, Matteo Pettenò
+License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+"""
 from typing import Dict, Type
 
 import resolv_data.datasets as datasets

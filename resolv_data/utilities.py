@@ -1,4 +1,10 @@
-""" This module contains utility functions useful for datasets manipulation. """
+"""
+Module Name: utilities.py.
+Description: This module contains utility functions useful for datasets manipulation.
+Author: Matteo Pettenò.
+Copyright (c) 2024, Matteo Pettenò
+License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+"""
 import gzip
 import hashlib
 import logging

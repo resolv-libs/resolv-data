@@ -1,4 +1,10 @@
-""" This module contains the base classes that define the main properties of a dataset. """
+"""
+Module Name: base.py.
+Description: This module contains the base classes that define the main properties of a dataset.
+Author: Matteo Pettenò.
+Copyright (c) 2024, Matteo Pettenò
+License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+"""
 import logging
 import shutil
 
