@@ -15,8 +15,8 @@ from typing import List, Dict, Union, Any
 
 from google.protobuf.json_format import MessageToJson
 
-from resolv_data import utilities
-from resolv_data.protobuf import DatasetIndex
+from . import utilities
+from .protobuf import DatasetIndex
 
 
 @dataclass

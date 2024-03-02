@@ -7,8 +7,8 @@ License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 """
 from typing import Dict, Type
 
-import resolv_data.datasets as datasets
-from resolv_data.base import DirectoryDataset
+from . import datasets
+from .base import DirectoryDataset
 
 # Dictionary mapping dataset names to their respective classes
 DATASET_TYPE_MAP: Dict[str, Type[DirectoryDataset]] = {
