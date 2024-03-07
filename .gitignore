@@ -162,5 +162,8 @@ cython_debug/
 # Poetry
 poetry.toml
 
+# Pyenv
+.python-version
+
 # resolv-data
 tests/datasets/output/

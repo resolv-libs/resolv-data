@@ -35,10 +35,12 @@ packages = [
 include = ["CHANGELOG.md"]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<4"
+python = "^3.9"
 requests = "^2.31.0"
 protobuf = "4.25.3"
+setuptools = ">=69.1.1"
 tables = "^3.9.2"
+resolv-mir = {git = "ssh://git@github.com/resolv-libs/resolv-mir.git", rev = "main"}
 
 [tool.poetry.group.dev.dependencies]
 
