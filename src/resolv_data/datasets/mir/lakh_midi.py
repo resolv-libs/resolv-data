@@ -11,9 +11,9 @@ import tables
 from pathlib import Path
 from typing import Dict, List, Union
 
-from src.resolv_data import utilities
-from src.resolv_data.base import DatasetInfo, DirectoryDataset, RemoteSource
-from src.resolv_data.protobuf import DatasetIndex, DatasetEntry, EntryFile
+from resolv_data import utilities
+from resolv_data.base import DatasetInfo, DirectoryDataset, RemoteSource
+from resolv_data.protobuf import DatasetIndex, DatasetEntry, EntryFile
 
 _NAME = "Lakh MIDI"
 

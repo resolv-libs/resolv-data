@@ -8,9 +8,9 @@ License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 from pathlib import Path
 from typing import Dict, List, Union
 
-from src.resolv_data import utilities
-from src.resolv_data.base import DatasetInfo, RemoteSource, DirectoryDataset
-from src.resolv_data.protobuf import DatasetIndex, DatasetEntry, EntryFile
+from resolv_data import utilities
+from resolv_data.base import DatasetInfo, RemoteSource, DirectoryDataset
+from resolv_data.protobuf import DatasetIndex, DatasetEntry, EntryFile
 
 _NAME = "JSB Chorales"
 
