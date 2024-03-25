@@ -3,10 +3,12 @@ syntax = "proto3";
 
 // A message describing the index for a dataset.
 message DatasetIndex {
+  // Unique ID of the dataset
+  string id = 1;
   // The version of the index.
-  string version = 1;
+  string version = 2;
   // The entries of the dataset.
-  repeated DatasetEntry entries = 2;
+  repeated DatasetEntry entries = 3;
 }
 
 // A message describing an entry of the dataset.

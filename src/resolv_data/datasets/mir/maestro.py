@@ -84,6 +84,7 @@ class MAESTRODataset(DirectoryDataset, ABC):
         maestro_metadata = json.loads(metadata_content)
         path_prefix = Path(path_prefix) if path_prefix is not None else self._root_dir
         return DatasetIndex(
+            id=self.root_dir_name,
             version=self.version,
             entries=[build_track_proto(row) for i, row in enumerate(maestro_metadata)]
         )
@@ -218,6 +219,7 @@ class MAESTRODatasetV3(MAESTRODataset):
         maestro_metadata = json.loads(metadata_content)
         path_prefix = path_prefix if path_prefix is not None else self._root_dir
         return DatasetIndex(
+            id=self.root_dir_name,
             version=self.version,
             entries=[build_track_proto(i) for i, _ in enumerate(maestro_metadata['midi_filename'])]
         )

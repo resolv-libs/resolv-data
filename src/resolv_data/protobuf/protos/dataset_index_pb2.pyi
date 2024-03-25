@@ -6,12 +6,14 @@ from typing import ClassVar as _ClassVar, Iterable as _Iterable, Mapping as _Map
 DESCRIPTOR: _descriptor.FileDescriptor
 
 class DatasetIndex(_message.Message):
-    __slots__ = ("version", "entries")
+    __slots__ = ("id", "version", "entries")
+    ID_FIELD_NUMBER: _ClassVar[int]
     VERSION_FIELD_NUMBER: _ClassVar[int]
     ENTRIES_FIELD_NUMBER: _ClassVar[int]
+    id: str
     version: str
     entries: _containers.RepeatedCompositeFieldContainer[DatasetEntry]
-    def __init__(self, version: _Optional[str] = ..., entries: _Optional[_Iterable[_Union[DatasetEntry, _Mapping]]] = ...) -> None: ...
+    def __init__(self, id: _Optional[str] = ..., version: _Optional[str] = ..., entries: _Optional[_Iterable[_Union[DatasetEntry, _Mapping]]] = ...) -> None: ...
 
 class DatasetEntry(_message.Message):
     __slots__ = ("id", "music_metadata", "files", "split")

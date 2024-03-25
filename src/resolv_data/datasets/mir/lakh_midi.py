@@ -178,6 +178,7 @@ class LakhMIDIDatasetV1(DirectoryDataset):
             return DatasetEntry(id=track_id, music_metadata=track_metadata, files=track_files)
 
         return DatasetIndex(
+            id=self.root_dir_name,
             version=self.version,
             entries=[build_track_proto(midi_file) for midi_file in self._root_dir.glob('**/*.mid')]
         )
@@ -224,6 +225,7 @@ class LakhMIDIDatasetV1(DirectoryDataset):
             match_scores = json.load(f)
 
         return DatasetIndex(
+            id=self.root_dir_name,
             version=self.version,
             entries=[build_track_proto(midi_file) for midi_file in self._root_dir.glob('**/*.mid')]
         )

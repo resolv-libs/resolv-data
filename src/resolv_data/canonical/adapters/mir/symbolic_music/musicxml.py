@@ -15,7 +15,7 @@ from resolv_mir.note_sequence.io import musicxml_io
 class MusicXMLDocumentAdapter(DataAdapter[NoteSequence]):
 
     def to_canonical_message(self, source_type: str, content: Any, metadata: Any) -> NoteSequence:
-        return musicxml_io.musicxml_to_note_sequence(content, source_type)
+        return musicxml_io.musicxml_to_note_sequence(content, source_type, metadata)
 
     def to_source_format(self, canonical_message: NoteSequence, **kwargs) -> Any:
         # TODO - Data adapter: MusicXML to NoteSequence implementation

@@ -83,6 +83,7 @@ class JSBChoralesDataset(DirectoryDataset):
         for ext in ('*.mxml', '*.mxl'):
             musicxml_files.extend(self._root_dir.glob(f'**/{ext}'))
         return DatasetIndex(
+            id=self.root_dir_name,
             version=self.version,
             entries=[build_track_proto(musicxml_file) for musicxml_file in musicxml_files]
         )
