@@ -441,7 +441,7 @@ protobuf = "4.25.3"
 type = "git"
 url = "ssh://git@github.com/resolv-libs/resolv-mir.git"
 reference = "main"
-resolved_reference = "fc2d5101be8a2bb5d7ab6b1b4564f2a85853c8e4"
+resolved_reference = "e1fa317c563be2e5527910c771fb55bec4a3c399"
 
 [[package]]
 name = "setuptools"
