@@ -9,6 +9,7 @@ from ..protobuf import DatasetIndex
 def import_directory_dataset(dataset_name: str,
                              dataset_mode: str,
                              output_path: Union[str, Path] = None,
+                             index_path_prefix: str = None,
                              temp: bool = False,
                              overwrite: bool = False,
                              cleanup: bool = True,
@@ -22,5 +23,5 @@ def import_directory_dataset(dataset_name: str,
         cleanup=cleanup,
         allow_invalid_checksum=allow_invalid_checksum
     )
-    dataset_index = dataset.compute_index(path_prefix=dataset_root_dir)
+    dataset_index = dataset.compute_index(path_prefix=index_path_prefix if index_path_prefix else dataset_root_dir)
     return dataset_root_dir, dataset_index
