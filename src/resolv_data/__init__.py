@@ -7,3 +7,4 @@ from . import datasets
 from .base import DirectoryDataset, DatasetInfo, RemoteSource
 from .constants import DATASET_TYPE_MAP, get_dataset_root_dir_name
 from .protobuf import *
+from .scripts import *
