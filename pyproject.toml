@@ -37,7 +37,7 @@ include = ["CHANGELOG.md"]
 [tool.poetry.dependencies]
 python = "^3.9"
 requests = "^2.31.0"
-protobuf = "^5.26.1"
+protobuf = "4.25.*"
 tables = "^3.9.2"
 
 [tool.poetry.group.dev.dependencies]
