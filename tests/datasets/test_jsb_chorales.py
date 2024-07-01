@@ -6,7 +6,7 @@ from google.protobuf.json_format import Parse
 
 from resolv_data import DatasetIndex
 from resolv_data.datasets.mir import JSBChoralesDataset
-from resolv_data.scripts.import_dataset import import_dataset
+from resolv_data.scripts.import_dataset import import_directory_dataset
 
 
 class JSBChoralesDatasetTest(unittest.TestCase):
@@ -22,7 +22,7 @@ class JSBChoralesDatasetTest(unittest.TestCase):
     def test_download_and_index(self):
         dataset_modes = JSBChoralesDataset.remote_sources().keys()
         for mode in dataset_modes:
-            dataset_root_dir, dataset_index = import_dataset(
+            dataset_root_dir, dataset_index = import_directory_dataset(
                 dataset_name='jsb-chorales-v1',
                 dataset_mode=mode,
                 output_path=self.output_dir,
